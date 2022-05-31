@@ -5,3 +5,6 @@ function findNeedle(haystack) {
     }
   }
 }
+
+findNeedle(['hay', 'hay', 'hay', 'hay', 'needle', 'hay', 'hay'])
+console.log(findNeedle(['3', '123124234', undefined, 'needle', 'world', 'hay', 2, '3', true, false]))
