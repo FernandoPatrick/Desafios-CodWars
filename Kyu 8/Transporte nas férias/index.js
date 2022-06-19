@@ -13,3 +13,5 @@ function rentalCarCost(d) {
   else if(d >= 3) return d * 40 - 20
   return d * 40
 }
+
+console.log(rentalCarCost(3)) // 60
