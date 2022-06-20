@@ -1,3 +1,5 @@
+// Sum The Strings
+
 // Crie uma função que receba 2 inteiros na forma de uma string como entrada e produza a soma (também como uma string):
 
 // Exemplo: ( Entrada1, Entrada2 --> Saída )
